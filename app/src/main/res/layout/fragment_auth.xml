@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Регистрация"
+        android:textAlignment="center"
+        android:textColor="@color/label_primary"
+        android:textFontWeight="500"
+        android:textSize="24dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineHeight="20dp"
+            android:text="Электронная почта"
+            android:textColor="@color/label_secondary"
+            android:textFontWeight="400"
+            android:textSize="15dp" />
+
+        <EditText
+            android:layout_width="328dp"
+            android:layout_height="44dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/auth_text_field"
+            android:ems="10"
+            android:hint="Введите адрес почты"
+            android:inputType="textPersonName"
+            android:letterSpacing="0.02"
+            android:lineHeight="20dp"
+            android:paddingHorizontal="11dp"
+            android:textColor="@color/label_field"
+            android:textFontWeight="400"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineHeight="20dp"
+            android:text="Пароль"
+            android:textColor="@color/label_secondary"
+            android:textFontWeight="400"
+            android:textSize="15dp" />
+
+        <EditText
+            android:layout_width="328dp"
+            android:layout_height="44dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/auth_text_field"
+            android:ems="10"
+            android:hint="Создайте пароль"
+            android:inputType="textPersonName"
+            android:letterSpacing="0.02"
+            android:lineHeight="20dp"
+            android:paddingHorizontal="11dp"
+            android:textColor="@color/label_field"
+            android:textFontWeight="400"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="25dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout2"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout2"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineHeight="20dp"
+            android:text="Пароль повторно"
+            android:textColor="@color/label_secondary"
+            android:textFontWeight="400"
+            android:textSize="15dp" />
+
+        <EditText
+            android:layout_width="328dp"
+            android:layout_height="44dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/auth_text_field"
+            android:ems="10"
+            android:hint="Повторите пароль"
+            android:inputType="textPersonName"
+            android:letterSpacing="0.02"
+            android:lineHeight="20dp"
+            android:paddingHorizontal="11dp"
+            android:textColor="@color/label_field"
+            android:textFontWeight="400"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/ef"
+        android:layout_width="328dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/auth_text_button"
+        android:text="Зарегистрироваться"
+        android:textColor="@color/white"
+
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout3"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout3"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout3" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="или войти с помощью"
+        android:textAlignment="center"
+        android:textColor="@color/label_field"
+        android:textFontWeight="400"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="@+id/ef"
+        app:layout_constraintStart_toStartOf="@+id/ef"
+        app:layout_constraintTop_toBottomOf="@+id/ef" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="@+id/ef"
+        app:layout_constraintStart_toStartOf="@+id/ef"
+        android:divider="@drawable/auth_img_btn_rounded_divider"
+        android:showDividers="middle"
+        app:layout_constraintTop_toBottomOf="@+id/textView4">
+
+        <ImageButton
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:background="@drawable/auth_img_btn_rounded_shape"
+            app:srcCompat="@drawable/auth_image_btn_1" />
+
+        <ImageButton
+            android:id="@+id/yandex_auth_ib"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:background="@drawable/auth_img_btn_rounded_shape"
+            app:srcCompat="@drawable/auth_image_btn_2_yandex" />
+
+        <ImageButton
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+            android:background="@drawable/auth_img_btn_rounded_shape"
+            app:srcCompat="@drawable/auth_image_btn_3" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

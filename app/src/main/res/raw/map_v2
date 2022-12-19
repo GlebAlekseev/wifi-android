@@ -1,0 +1,1072 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ramp": "yes",
+                "handrail": "yes",
+                "relations": "[]",
+                "ramp:wheelchair": "yes",
+                "id": "628047990",
+                "incline": "down",
+                "type": "way",
+                "highway": "steps"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13410950000,
+                        44.93634760000
+                    ],
+                    [
+                        34.13408210000,
+                        44.93633700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HRufyftuyolloulouyhv",
+                "access": "yes",
+                "indoor": "room",
+                "room": "class",
+                "level": "1"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13387848000,
+                            44.93670271000
+                        ],
+                        [
+                            34.13396762000,
+                            44.93674483000
+                        ],
+                        [
+                            34.13403736000,
+                            44.93666129000
+                        ],
+                        [
+                            34.13394538000,
+                            44.93661168000
+                        ],
+                        [
+                            34.13387848000,
+                            44.93670271000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "node",
+                "barrier": "lift_gate",
+                "id": "5928919512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13548750000,
+                    44.93612380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "type": "way",
+                "id": "628047956"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13439090000,
+                        44.93733620000
+                    ],
+                    [
+                        34.13450270000,
+                        44.93718320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5054421223",
+                "check_date": "2021-09-24",
+                "amenity": "atm",
+                "relations": "[]",
+                "opening_hours": "Mo-Fr 08:30-19:00",
+                "operator": "Генбанк и РНКБ",
+                "type": "node"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13415840000,
+                    44.93635820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "relations": "[]",
+                "id": "628092551",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13401340000,
+                        44.93631440000
+                    ],
+                    [
+                        34.13408210000,
+                        44.93633700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Таврическая академия Крымского федерального университета имени В. И. Вернадского",
+                "name:de": "Föderale Taurische Wernadski-Universität",
+                "addr:street": "проспект Вернадского",
+                "addr:housenumber": "4",
+                "type": "way",
+                "name:ru": "Таврическая академия Крымского федерального университета имени В. И. Вернадского",
+                "amenity": "university",
+                "wikidata": "Q1517401",
+                "name:uk": "Таврійська Академія Кримського федерального університеті ім. В. І. Вернадського.",
+                "wikipedia": "ru:Таврическая академия Крымского федерального университета имени В. И. Вернадского",
+                "relations": "[]",
+                "name:crh": "V. İ. Vernadskiy adına Qırım federal universitetiniñ Tavriya akademiyası",
+                "name:crh-cyr": "В. И. Вернадский адына Къырым федераль университетининъ Таврия академиясы",
+                "id": "91371255",
+                "name:en": "Taurida Federal V. I. Vernadsky University"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13543940000,
+                        44.93611740000
+                    ],
+                    [
+                        34.13552870000,
+                        44.93614570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "id": "628047985",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13433550000,
+                        44.93652810000
+                    ],
+                    [
+                        34.13436480000,
+                        44.93649030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "no",
+                "name": "108",
+                "indoor": "room",
+                "level": "0",
+                "room": "class"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13423181000,
+                            44.93658724000
+                        ],
+                        [
+                            34.13416743000,
+                            44.93656351000
+                        ],
+                        [
+                            34.13410977000,
+                            44.93663851000
+                        ],
+                        [
+                            34.13417414000,
+                            44.93666224000
+                        ],
+                        [
+                            34.13423181000,
+                            44.93658724000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "id": "628065026",
+                "highway": "service",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13512460000,
+                        44.93665380000
+                    ],
+                    [
+                        34.13518810000,
+                        44.93656590000
+                    ],
+                    [
+                        34.13508030000,
+                        44.93652750000
+                    ],
+                    [
+                        34.13525530000,
+                        44.93628470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "height": "10",
+                "relations": "[]",
+                "id": "91371233",
+                "type": "way",
+                "building": "yes"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13506470000,
+                            44.93668000000
+                        ],
+                        [
+                            34.13509110000,
+                            44.93664210000
+                        ],
+                        [
+                            34.13512460000,
+                            44.93665380000
+                        ],
+                        [
+                            34.13517720000,
+                            44.93667190000
+                        ],
+                        [
+                            34.13515100000,
+                            44.93670990000
+                        ],
+                        [
+                            34.13509650000,
+                            44.93669110000
+                        ],
+                        [
+                            34.13506470000,
+                            44.93668000000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "type": "way",
+                "id": "628047958"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13450270000,
+                        44.93718320000
+                    ],
+                    [
+                        34.13433550000,
+                        44.93652810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "id": "628065025",
+                "highway": "service",
+                "surface": "asphalt",
+                "type": "way",
+                "tunnel": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13509650000,
+                        44.93669110000
+                    ],
+                    [
+                        34.13512460000,
+                        44.93665380000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "id": "5929131960",
+                "type": "node",
+                "barrier": "lift_gate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13512460000,
+                    44.93665380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "628047987",
+                "relations": "[]",
+                "highway": "service",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13455990000,
+                        44.93739930000
+                    ],
+                    [
+                        34.13462430000,
+                        44.93731130000
+                    ],
+                    [
+                        34.13467190000,
+                        44.93724630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "bicycle_parking",
+                "id": "3880594441",
+                "relations": "[]",
+                "covered": "no",
+                "type": "node",
+                "bicycle_parking": "stands",
+                "capacity": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13439120000,
+                    44.93724290000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "type": "way",
+                "id": "628047957"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13450270000,
+                        44.93718320000
+                    ],
+                    [
+                        34.13467190000,
+                        44.93724630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5928919507",
+                "relations": "[]",
+                "type": "node",
+                "memorial": "yes",
+                "name": "Памятник погибшим преподавателям",
+                "historic": "memorial"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13439850000,
+                    44.93685950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "id": "5929057077",
+                "entrance": "emergency",
+                "type": "node",
+                "description": "Аварийный выход"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13436950000,
+                    44.93648400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "id": "628047986",
+                "highway": "service",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13467190000,
+                        44.93724630000
+                    ],
+                    [
+                        34.13509650000,
+                        44.93669110000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "relations": "[]",
+                "id": "91371227",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13455990000,
+                        44.93739930000
+                    ],
+                    [
+                        34.13439090000,
+                        44.93733620000
+                    ],
+                    [
+                        34.13346690000,
+                        44.93701380000
+                    ],
+                    [
+                        34.13386480000,
+                        44.93650450000
+                    ],
+                    [
+                        34.13401340000,
+                        44.93631440000
+                    ],
+                    [
+                        34.13402990000,
+                        44.93629320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "id": "628037817",
+                "foot": "destination",
+                "bicycle": "no",
+                "surface": "asphalt",
+                "type": "way",
+                "horse": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13435850000,
+                        44.93584230000
+                    ],
+                    [
+                        34.13472880000,
+                        44.93597280000
+                    ],
+                    [
+                        34.13501550000,
+                        44.93620050000
+                    ],
+                    [
+                        34.13525530000,
+                        44.93628470000
+                    ],
+                    [
+                        34.13537620000,
+                        44.93632730000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "id": "5929057076",
+                "type": "node",
+                "description": "Главный вход",
+                "entrance": "main"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13410950000,
+                    44.93634760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "name": "Корпус Б",
+                "addr:street": "проспект Вернадского",
+                "addr:housenumber": "4",
+                "building": "university",
+                "type": "way",
+                "id": "384501073",
+                "operator": "КФУ имени В.И. Вернадского"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13464090000,
+                            44.93739890000
+                        ],
+                        [
+                            34.13468860000,
+                            44.93733330000
+                        ],
+                        [
+                            34.13515100000,
+                            44.93670990000
+                        ],
+                        [
+                            34.13517720000,
+                            44.93667190000
+                        ],
+                        [
+                            34.13536990000,
+                            44.93674240000
+                        ],
+                        [
+                            34.13483220000,
+                            44.93746980000
+                        ],
+                        [
+                            34.13464090000,
+                            44.93739890000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "node",
+                "name": "Памятник В. И. Вернадскому",
+                "historic": "memorial",
+                "id": "3878009914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13396110000,
+                    44.93642900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "way",
+                "highway": "steps",
+                "id": "628047989"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13541990000,
+                        44.93634230000
+                    ],
+                    [
+                        34.13537620000,
+                        44.93632730000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "way",
+                "highway": "steps",
+                "id": "628047988"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13462430000,
+                        44.93731130000
+                    ],
+                    [
+                        34.13468860000,
+                        44.93733330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "no",
+                "indoor": "room",
+                "level": "0",
+                "room": "class"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13428143000,
+                            44.93651984000
+                        ],
+                        [
+                            34.13421571000,
+                            44.93649895000
+                        ],
+                        [
+                            34.13416744000,
+                            44.93656351000
+                        ],
+                        [
+                            34.13423181000,
+                            44.93658724000
+                        ],
+                        [
+                            34.13428143000,
+                            44.93651984000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "building:levels": "4",
+                "addr:street": "проспект Вернадского",
+                "addr:housenumber": "4",
+                "building": "university",
+                "type": "way",
+                "name": "Корпус А",
+                "id": "384500756",
+                "operator": "КФУ имени В.И. Вернадского"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13351150000,
+                            44.93700120000
+                        ],
+                        [
+                            34.13361670000,
+                            44.93685800000
+                        ],
+                        [
+                            34.13373290000,
+                            44.93690080000
+                        ],
+                        [
+                            34.13396550000,
+                            44.93658430000
+                        ],
+                        [
+                            34.13390760000,
+                            44.93652030000
+                        ],
+                        [
+                            34.13409990000,
+                            44.93636090000
+                        ],
+                        [
+                            34.13410950000,
+                            44.93634760000
+                        ],
+                        [
+                            34.13441700000,
+                            44.93593100000
+                        ],
+                        [
+                            34.13464340000,
+                            44.93601470000
+                        ],
+                        [
+                            34.13438820000,
+                            44.93636060000
+                        ],
+                        [
+                            34.13449710000,
+                            44.93640080000
+                        ],
+                        [
+                            34.13451910000,
+                            44.93637100000
+                        ],
+                        [
+                            34.13512640000,
+                            44.93659570000
+                        ],
+                        [
+                            34.13509110000,
+                            44.93664210000
+                        ],
+                        [
+                            34.13506470000,
+                            44.93668000000
+                        ],
+                        [
+                            34.13503100000,
+                            44.93672530000
+                        ],
+                        [
+                            34.13436950000,
+                            44.93648400000
+                        ],
+                        [
+                            34.13432110000,
+                            44.93646620000
+                        ],
+                        [
+                            34.13395360000,
+                            44.93696620000
+                        ],
+                        [
+                            34.13445120000,
+                            44.93714950000
+                        ],
+                        [
+                            34.13433690000,
+                            44.93730510000
+                        ],
+                        [
+                            34.13351150000,
+                            44.93700120000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "id": "628047991",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13410660000,
+                        44.93619830000
+                    ],
+                    [
+                        34.13435850000,
+                        44.93584230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access": "no",
+                "indoor": "room",
+                "level": "0",
+                "room": "class"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13432110000,
+                            44.93646620000
+                        ],
+                        [
+                            34.13425460000,
+                            44.93644294000
+                        ],
+                        [
+                            34.13421571000,
+                            44.93649895000
+                        ],
+                        [
+                            34.13428143000,
+                            44.93651984000
+                        ],
+                        [
+                            34.13432110000,
+                            44.93646620000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "motor_vehicle": "private",
+                "bicycle": "yes",
+                "oneway": "no",
+                "highway": "service",
+                "surface": "asphalt",
+                "type": "way",
+                "horse": "no",
+                "id": "628037821"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13549880000,
+                        44.93610800000
+                    ],
+                    [
+                        34.13548750000,
+                        44.93612380000
+                    ],
+                    [
+                        34.13543280000,
+                        44.93620170000
+                    ],
+                    [
+                        34.13534000000,
+                        44.93617040000
+                    ],
+                    [
+                        34.13525530000,
+                        44.93628470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "node",
+                "id": "5929057079",
+                "entrance": "main"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13468860000,
+                    44.93733330000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "name": "Корпус В",
+                "addr:street": "проспект Вернадского",
+                "addr:housenumber": "4",
+                "building": "university",
+                "id": "384501385",
+                "type": "way",
+                "operator": "КФУ имени В.И. Вернадского"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.13517720000,
+                            44.93667190000
+                        ],
+                        [
+                            34.13541990000,
+                            44.93634230000
+                        ],
+                        [
+                            34.13548100000,
+                            44.93626240000
+                        ],
+                        [
+                            34.13567230000,
+                            44.93633320000
+                        ],
+                        [
+                            34.13536990000,
+                            44.93674240000
+                        ],
+                        [
+                            34.13517720000,
+                            44.93667190000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "node",
+                "id": "5929057080",
+                "description": "Вход в корпус В",
+                "entrance": "main"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13541990000,
+                    44.93634230000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "footway",
+                "footway": "sidewalk",
+                "relations": "[]",
+                "id": "628047994",
+                "type": "way"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.13402990000,
+                        44.93629320000
+                    ],
+                    [
+                        34.13410660000,
+                        44.93619830000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "relations": "[]",
+                "type": "node",
+                "id": "3878030563",
+                "tourism": "museum",
+                "name": "Зоологический музей",
+                "name:uk": "Зоологічний музей",
+                "operator": "КФУ имени В.И. Вернадского",
+                "name:ru": "Зоологический музей"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.13476610000,
+                    44.93730660000
+                ]
+            }
+        }
+    ]
+}

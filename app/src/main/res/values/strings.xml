@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">wifi-trilateration</string>
+
+    <string name="map_start_lat">44.936212</string>
+    <string name="map_start_lng">34.134804</string>
+
+    <string name="map_constrains_southwest_lat">44.935758</string>
+    <string name="map_constrains_southwest_lng">34.133468</string>
+    <string name="map_constrains_northeast_lat">44.938327</string>
+    <string name="map_constrains_northeast_lng">34.135908</string>
+
+    <string name="map_min_zoom">17.5</string>
+
+    <string name="map_geojson">cfu_map_v2.geojson</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="default_server_auth_url">https://192.168.0.102:443</string>
+    <string name="default_server_api_url">https://4f4d–89-22-253-69.ngrok.io</string>
+
+
+    <string name="authorize_url">https://192.168.0.102:443/auth/authorize</string>
+</resources>

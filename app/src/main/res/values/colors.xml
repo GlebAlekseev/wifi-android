@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#000000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="red">#8B0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#ffe66d</color>
+
+
+
+    <color name="l_1">#edede9</color>
+    <color name="l_2">#d6ccc2</color>
+    <color name="l_3">#f5ebe0</color>
+    <color name="l_4">#e3d5ca</color>
+    <color name="l_5">#d5bdaf</color>
+
+
+    <color name="main_white">#FFFF</color>
+    <color name="main_primary">#4BB2F9</color>
+    <color name="main_primary_inactive">#85C3FF</color>
+
+    <color name="bg_primary">#F4F7FB</color>
+    <color name="bg_secondary">#FFFFFF</color>
+
+    <color name="label_primary">#0B1F33</color>
+    <color name="label_secondary">#66727F</color>
+    <color name="label_field">#66727f99</color>
+
+    <color name="additional_red">#EE3F58</color>
+    <color name="additional_stroke">#0000001a</color>
+
+    <color name="background_fill">#f2f3f4</color>
+    <color name="background_stroke">#f2f3f4</color>
+
+
+
+
+
+
+
+    <color name="room_class_fill">#9966CC</color>
+    <color name="room_computer_class_fill">#CD9575</color>
+    <color name="room_library_fill">#464451</color>
+    <color name="room_sports_hall_fill">#44944A</color>
+    <color name="room_assembly_hall_fill">#4E5754</color>
+    <color name="room_scene_fill">#FAE7B5</color>
+    <color name="room_changing_area_fill">#C5D0E6</color>
+    <color name="room_office_fill">#A5260A</color>
+    <color name="room_toilet_m_fill">#77DDE7</color>
+    <color name="room_toilet_w_fill">#F984E5</color>
+
+
+    <color name="linestring_ladder">#f77f00</color>
+    <color name="linestring_wall">#ffc8dd</color>
+    <color name="linestring_road">#f2e9e4</color>
+
+    <color name="room_stroke">#3E5F8A</color>
+
+    <color name="building_fill">#9a8c98</color>
+    <color name="building_stroke">#4a4e69</color>
+
+    <color name="way_fill">#94d2bd</color>
+    <color name="way_stroke">#f08080</color>
+
+
+</resources>
